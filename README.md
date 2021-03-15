@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi, I'm Scott
+
+I'm a developer and teacher working at the intersection of data science and digital humanities.
 
 <!--
 **csbailey5t/csbailey5t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
