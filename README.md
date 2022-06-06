@@ -1,6 +1,6 @@
 # Hi, I'm Scott
 
-I'm a developer and teacher working at the intersection of data science and digital humanities. I like to help people learn to code and think about data, and regularly teach workshops on Python and R.
+I'm a developer and educator working at the intersection of data science and digital humanities. I like to help people learn to code and think about data, and regularly teach workshops on Python and R.
 
 In my own research, I think about how natural language processing and machine learning can be applied to humanistic text data, opening new questions about those texts, computational methods, and how we interpret.
 
