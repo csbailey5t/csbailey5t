@@ -1,13 +1,9 @@
 # Hi, I'm Scott
 
-I'm a developer and educator working at the intersection of data science and digital humanities. I like to help people learn to code and think about data, and regularly teach workshops on Python and R.
+I'm a marketer, developer, and educator working in generative AI and synthetic data.
 
 In my own research, I think about how natural language processing and machine learning can be applied to humanistic text data, opening new questions about those texts, computational methods, and how we interpret.
 
-I've been lucky to work with some great teams on digital humanities projects, and you can find two of those projects here:
-
-- [Noh as Intermedia](http://noh.stanford.edu/)
-- [Digital Analysis of Syriac Handwriting](http://dash.stanford.edu/)
 
 <!--
 **csbailey5t/csbailey5t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
