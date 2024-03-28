@@ -1,6 +1,6 @@
 # Hi, I'm Scott
 
-I'm a marketer, developer, and educator working in generative AI and synthetic data.
+I'm a marketer, developer, and educator working in AI and dev tools.
 
 In my own research, I think about how natural language processing and machine learning can be applied to humanistic text data, opening new questions about those texts, computational methods, and how we interpret.
 
